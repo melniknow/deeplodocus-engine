@@ -1,1 +1,3 @@
-# deeplodocus-engine
+# Deeplodocus engine
+
+Шахматный движок deeplodocus
