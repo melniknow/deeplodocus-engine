@@ -7,3 +7,4 @@ deep22_with_trim_fen.csv
 deep8.csv
 deep8_with_trim_fen.csv
 final_fen.csv
+*.h5
